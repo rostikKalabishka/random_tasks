@@ -9,7 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   path: ^1.8.0
-  dotenv: ^4.2.0
+  flutter_dotenv: ^5.1.0
   http: ^1.2.2
 
 dev_dependencies:
